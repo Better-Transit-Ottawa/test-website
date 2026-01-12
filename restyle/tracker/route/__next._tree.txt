@@ -2,5 +2,4 @@
 :HL["/restyle/_next/static/chunks/b69efe273b76d738.css","style"]
 :HL["/Frutiger.ttf","font",{"type":"font/ttf"}]
 :HL["/Frutiger_bold.ttf","font",{"type":"font/ttf"}]
-:HL["/images/logo-square.svg","image"]
-0:{"buildId":"MxeOjqHF6U4J9hF_gMP8T","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"tracker","paramType":null,"paramKey":"tracker","hasRuntimePrefetch":false,"slots":{"children":{"name":"route","paramType":null,"paramKey":"route","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"CGLFDsm0uU9mSqJkZBZ0B","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"tracker","paramType":null,"paramKey":"tracker","hasRuntimePrefetch":false,"slots":{"children":{"name":"route","paramType":null,"paramKey":"route","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

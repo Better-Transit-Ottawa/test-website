@@ -1,11 +1,9 @@
 1:"$Sreact.fragment"
-2:I[22016,["/restyle/_next/static/chunks/796e69ae18b2784c.js"],""]
-7:I[97367,["/restyle/_next/static/chunks/ff1a16fafef87110.js","/restyle/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-8:"$Sreact.suspense"
-:HL["/images/logo-square.svg","image"]
-:HL["/images/info.svg","image"]
-:HL["/images/blog/bank-bus-lanes.jpg","image"]
-3:T1781,<p>Last night, city staff held an open house to put forward their recommendations for bus lanes and street parking changes on Bank Street.</p>
+2:I[22016,["/restyle/_next/static/chunks/5b3e292ffa75640f.js"],""]
+3:I[5500,["/restyle/_next/static/chunks/5b3e292ffa75640f.js"],"Image"]
+8:I[97367,["/restyle/_next/static/chunks/ff1a16fafef87110.js","/restyle/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1781,<p>Last night, city staff held an open house to put forward their recommendations for bus lanes and street parking changes on Bank Street.</p>
 <p>Despite overwhelming public opinion and data-driven evidence to support all-day/24hr continuous bus lanes, the proposed changes are lacklustre at best.</p>
 <hr>
 <h2>Changes</h2>
@@ -41,8 +39,8 @@
 <p>The proposed measures are completely and utterly inadequate for all users of Bank Street.</p>
 <p>The citizens of Ottawa all deserve better.</p>
 <p>- Better Transit Ottawa</p>
-0:{"buildId":"MxeOjqHF6U4J9hF_gMP8T","rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"background-container","children":["$","div",null,{"className":"background"}]}],["$","main",null,{"className":"content ","children":[["$","header",null,{"children":["$","$L2",null,{"href":"/","className":"title","children":[["$","div",null,{"className":"logo","children":["$","img",null,{"src":"/images/logo-square.svg","alt":"Logo"}]}],["$","h1",null,{"className":"title-text","children":"Better Transit Ottawa"}]]}]}],["$","section",null,{"className":"text-block","children":[["$","h2",null,{"className":"info-bar","children":[["$","img",null,{"className":"info-icon","src":"/images/info.svg","alt":"Info icon"}],["$","span",null,{"className":"info-bar-title","children":"Bank Street Bus Lane Open House: Our response"}]]}],["$","article",null,{"className":"blog-article","children":[["$","div",null,{"className":"date","children":"2025-09-25"}],["$","img",null,{"className":"blog-thumbnail","src":"/images/blog/bank-bus-lanes.jpg","alt":"Buses in a bus lane turning onto Bank Street"}],["$","div",null,{"className":"blog","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]]}],"$L4"]}]],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
-4:["$","footer",null,{"children":[[],["$","div",null,{"children":"Contact: contact[at]bettertransitottawa.ca"}],["$","div",null,{"children":["$","a",null,{"href":"https://github.com/Better-Transit-Ottawa/website","children":"Website source code"}]}]]}]
-5:["$","script","script-0",{"src":"/restyle/_next/static/chunks/796e69ae18b2784c.js","async":true}]
-6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
-9:null
+0:{"buildId":"CGLFDsm0uU9mSqJkZBZ0B","rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"background-container","children":["$","div",null,{"className":"background"}]}],["$","main",null,{"className":"content ","children":[["$","header",null,{"children":["$","$L2",null,{"href":"/","className":"title","children":[["$","div",null,{"className":"logo","children":["$","$L3",null,{"src":"/images/logo-square.svg","alt":"Logo"}]}],["$","h1",null,{"className":"title-text","children":"Better Transit Ottawa"}]]}]}],["$","section",null,{"className":"text-block","children":[["$","h2",null,{"className":"info-bar","children":[["$","$L3",null,{"className":"info-icon","src":"/images/info.svg","alt":"Info icon"}],["$","span",null,{"className":"info-bar-title","children":"Bank Street Bus Lane Open House: Our response"}]]}],["$","article",null,{"className":"blog-article","children":[["$","div",null,{"className":"date","children":"2025-09-25"}],["$","$L3",null,{"className":"blog-thumbnail","src":"/images/blog/bank-bus-lanes.jpg","alt":"Buses in a bus lane turning onto Bank Street"}],["$","div",null,{"className":"blog","dangerouslySetInnerHTML":{"__html":"$4"}}]]}]]}],"$L5"]}]],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","footer",null,{"children":[[],["$","div",null,{"children":"Contact: contact[at]bettertransitottawa.ca"}],["$","div",null,{"children":["$","a",null,{"href":"https://github.com/Better-Transit-Ottawa/website","children":"Website source code"}]}]]}]
+6:["$","script","script-0",{"src":"/restyle/_next/static/chunks/5b3e292ffa75640f.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
