@@ -1,4 +1,4 @@
-:HL["/restyle/_next/static/chunks/9ccfa7369639ed8c.css","style"]
+:HL["/restyle/_next/static/chunks/bbdb5a2daaa2be72.css","style"]
 :HL["/restyle/_next/static/media/Frutiger-s.p.75e7ec73.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/restyle/_next/static/media/Frutiger_bold-s.p.9d98a9a1.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/restyle/images/logo-square.svg","image"]
@@ -11,4 +11,4 @@
 :HL["/restyle/images/arrow.svg","image"]
 :HL["/restyle/images/station-dot.svg","image"]
 :HL["/restyle/images/logo.svg","image"]
-0:{"buildId":"3sIBvD4p5DpukSkLbwByD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"ePPTfRoWtcyDY7ZqQLoQQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
