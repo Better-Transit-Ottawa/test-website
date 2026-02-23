@@ -12,4 +12,4 @@
 :HL["/master/images/arrow.svg","image"]
 :HL["/master/images/station-dot.svg","image"]
 :HL["/master/images/logo.svg","image"]
-0:{"buildId":"28U5ll8ERBf1TbS_lq6lH","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Kur_jZ1lx6nvjquAfjDbz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
