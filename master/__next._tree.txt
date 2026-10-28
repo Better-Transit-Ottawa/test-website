@@ -7,9 +7,9 @@
 :HL["/master/images/youtube.svg","image"]
 :HL["/master/images/info.svg","image"]
 :HL["/master/images/graph-5-03.png","image"]
-:HL["/master/images/blog/budget-2026/bus.jpg","image"]
+:HL["/master/images/blog/election-2026/bus.webp","image"]
 :HL["/master/images/bank.jpg","image"]
 :HL["/master/images/arrow.svg","image"]
 :HL["/master/images/station-dot.svg","image"]
 :HL["/master/images/logo.svg","image"]
-0:{"buildId":"XvqjmZ-7HWvK4Ki4XcoCY","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"HqaQysYnyI0c8K08qs8EE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
